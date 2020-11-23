@@ -1,0 +1,18 @@
+{
+  "name": "01-strategy-design-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@types/assert": "^1.5.2"
+  }
+}
